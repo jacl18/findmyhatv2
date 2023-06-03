@@ -1,1 +1,2 @@
 # findmyhatv2
+This is a simple game using only Javascript. The objective of the game is to navigate using character keys u,l,r,d for up, left, right and down respectively to move across the gameboard while avoiding randomised 'holes' characterised by 0 to reach the objective 'hat' characterised by ^. The game is over when you've found the hat, or dropped into a hole or went out of bounds of the gameboard.
